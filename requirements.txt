@@ -1,0 +1,6 @@
+loguru
+pyTelegramBotAPI
+requests
+telebot-calendar
+python-dotenv
+peewee
