@@ -11,3 +11,4 @@ CMD ["python", "main.py"]
 #EXPOSE 80/tcp
 #EXPOSE 443/tcp
 #EXPOSE 5222/tcp
+>>>>>>>>> Temporary merge branch 2
